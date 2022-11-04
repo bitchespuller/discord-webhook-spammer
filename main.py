@@ -1,7 +1,7 @@
 import requests
 from colorama import *
 import time
-discord_webhook_url = "https://discord.com/api/webhooks/1036199918710308904/MsNbmLZcGDfRxc1migl2VUc86kIvggTHiEuvt0TS00VDSk6LaTKtEZylfJv-bDKRdaK4"
+discord_webhook_url = ""
 
 print(f""" {Fore.RED}
 
